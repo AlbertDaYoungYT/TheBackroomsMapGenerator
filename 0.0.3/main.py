@@ -7,6 +7,7 @@ Code Version = 0.0.3
 Changes:
 - Map Spawns now at world center
 - Simplified Functions
+- Objects get put in Collections
 - Live Updates
 """
 import bpy
