@@ -6,7 +6,7 @@ Code Version = 0.0.3
 
 Changes:
 - Map Spawns now at world center
-- Simplified Functions
+- Simplified Functions and 10X faster calculations
 - Objects get put in Collections
 - Live Updates
 """
